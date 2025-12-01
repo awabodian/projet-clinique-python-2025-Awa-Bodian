@@ -9,6 +9,7 @@ from models.patient import Patient
 from models.rendez_vous import RendezVous
 from utils.validation import *
 
+print("test deusieme commit")
 class ApplicationClinique:
     """
     Application principale de gestion de la clinique.
